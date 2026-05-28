@@ -113,3 +113,9 @@ The raw datasets were not perfectly clean and required multiple rounds of debugg
 ##### Solution
 I used Excel and SQL queries to inspect the data, identify inconsistencies, and gradually clean and transform the datasets before analysis.
 
+## ER Diagram
+
+![ER Diagram](images/ER%20diagram.png)
+
+![ER Diagram](images/HRhd2Y0.png)
+
