@@ -122,17 +122,20 @@ I used Excel and SQL queries to inspect the data, identify inconsistencies, and 
 
 ## Project Structure
 
-MySQL-Ecommerce-Analytics/
-│
-├── images/
-├── sql/
-│   ├── Create table and load file.sql
-│   ├── alter_pk_fk.sql
-|   ├── CTE.sql
-│   └── window_function.sql
-│
-├── README.md
-└── LICENSE
+MySQL-Ecommerce-Analytics/  
+│  
+├── images/  
+│  
+├── sql/  
+│   ├── create_tables_and_load_data.sql  
+│   ├── alter_pk_fk.sql  
+│   ├── beginner.sql  
+│   ├── intermediate.sql  
+│   ├── cte.sql  
+│   └── window_functions.sql  
+│  
+├── README.md  
+└── LICENSE   
 
 ## Future Improvements
 
