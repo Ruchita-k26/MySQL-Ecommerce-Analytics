@@ -119,3 +119,14 @@ I used Excel and SQL queries to inspect the data, identify inconsistencies, and 
 
 ![ER Diagram](images/HRhd2Y0.png)
 
+
+## Future Improvements
+
+In the future, this project can be extended by:
+
+- Creating SQL views and stored procedures
+- Adding indexes for query optimization
+- Building dashboards using Power BI or Tableau
+
+## Author
+Ruchita Kumbhare
