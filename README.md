@@ -120,6 +120,20 @@ I used Excel and SQL queries to inspect the data, identify inconsistencies, and 
 ![ER Diagram](images/HRhd2Y0.png)
 
 
+## Project Structure
+
+MySQL-Ecommerce-Analytics/
+│
+├── images/
+├── sql/
+│   ├── Create table and load file.sql
+│   ├── alter_pk_fk.sql
+|   ├── CTE.sql
+│   └── window_function.sql
+│
+├── README.md
+└── LICENSE
+
 ## Future Improvements
 
 In the future, this project can be extended by:
