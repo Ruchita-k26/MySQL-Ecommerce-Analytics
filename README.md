@@ -12,14 +12,14 @@ The project uses the Brazilian E-commerce Public Dataset by Olist. The dataset c
 
 The dataset includes multiple connected tables such as:
 
-Customers  
-Orders  
-Products  
-Sellers  
-Payments  
-Reviews  
-Geolocation  
-Product category translations  
+- Customers  
+- Orders  
+- Products  
+- Sellers  
+- Payments  
+- Reviews  
+- Geolocation  
+- Product category translations  
 
 These tables represent a complete e-commerce ecosystem and allow analysis of customer behavior, seller performance, delivery trends, product categories, revenue, and reviews.
 
