@@ -143,7 +143,7 @@ In the future, this project can be extended by:
 
 - Creating SQL views and stored procedures
 - Adding indexes for query optimization
-- Building dashboards using Power BI or Tableau
+- Building dashboards using Power BI or Tableau - [link](https://github.com/Ruchita-k26/E-commerce-Analytics-Dashboard)
 
 ## Author
 Ruchita Kumbhare
